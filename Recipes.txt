@@ -6,4 +6,7 @@ Paneer
 Pasta
 Chicken Curry
 
+Beans
+Pizza
+
 Thank You
